@@ -1,0 +1,4 @@
+groq
+sqlglot
+streamlit
+python-dotenv
