@@ -17,10 +17,6 @@ Convert plain English questions into SQL queries instantly — powered by **Groq
 
 ---
 
-## 🖥️ Demo
-
-![App Screenshot](screenshot.png)
-
 ---
 
 ## 🛠️ Tech Stack
